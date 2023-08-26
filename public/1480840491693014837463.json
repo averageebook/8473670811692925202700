@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "945299585284",
+    "project_id": "duit-cash-cccf4",
+    "storage_bucket": "duit-cash-cccf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945299585284:android:fa96d9fd380061f8293851",
+        "android_client_info": {
+          "package_name": "com.duit.cepat.duit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945299585284-775tlpvvpc6hcnnmlu5nsodai43e2jsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyU0eYoJS14YXOxfOjLhxyo7XRFrAWPdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945299585284-775tlpvvpc6hcnnmlu5nsodai43e2jsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945299585284:android:41de9d997e56699b293851",
+        "android_client_info": {
+          "package_name": "com.pandev.duitcash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945299585284-775tlpvvpc6hcnnmlu5nsodai43e2jsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyU0eYoJS14YXOxfOjLhxyo7XRFrAWPdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945299585284-775tlpvvpc6hcnnmlu5nsodai43e2jsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
